@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\Vesoes\3\LogDroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="G:\Vesoes\3\LogDroid\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_da9ae42723d2d04b31cae7b9a14a217a66eccfb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Vesoes\3\LogDroid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="G:\Vesoes\3\LogDroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_edf9ab674af95ee2d2856ce02f6cc222dbd3478f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Vesoes\3\LogDroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\Vesoes\3\LogDroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_1215a0eaebef657574c7430bcb34f3e7648b6194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Vesoes\3\LogDroid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="G:\Vesoes\3\LogDroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_af0264acd99868be2a891e5fb886d8988b4919a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lab02\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="G:\Vesoes\3\LogDroid\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_8e67a10c8be7320ea1cac1c62f4db08273c55e68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Vesoes\3\LogDroid\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="G:\Vesoes\3\LogDroid\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_16c4be56c7f88380a5b28a1a454a76f6ebed208b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Vesoes\3\LogDroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="G:\Vesoes\3\LogDroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_2acbb1600f444d77b69c49274091364ace77cb10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Vesoes\3\LogDroid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="G:\Vesoes\3\LogDroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_dccd74dbbec5c17cf6806d66fb5d572541c13364.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Vesoes\3\LogDroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="G:\Vesoes\3\LogDroid\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_987b20345f5d30beb962a9e87e0d456f5e391301.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Vesoes\3\LogDroid\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="G:\Vesoes\3\LogDroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_6a5d9063473c20e4fa8ece056f047613fecf004c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Vesoes\3\LogDroid\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="G:\Vesoes\3\LogDroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_d0029e3ccbe78a1ab8b05eb5bc5fe4f0531d7657.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Vesoes\3\LogDroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="G:\Vesoes\3\LogDroid\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_3e40303bbe40502f299daf8c140495fc373191a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Vesoes\3\LogDroid\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="G:\Vesoes\3\LogDroid\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.2.0_98424cdb14ff35e942190c41bcc249fdbd3d4805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Vesoes\3\LogDroid\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="G:\Vesoes\3\LogDroid\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.2.0_b55254360f7cbfce76f3e489ecb0a8b5984229c2.jar" />
+    </item>
+
+</items>
